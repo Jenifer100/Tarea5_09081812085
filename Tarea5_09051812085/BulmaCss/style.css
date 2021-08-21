@@ -1,0 +1,19 @@
+.card {
+    width: 1500px;
+}
+
+#cajita {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    background-color: #36456b;
+}
+
+#cajita legend {
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+
+#cajita p,
+label {
+    color: rgb(148, 193, 233);
+}

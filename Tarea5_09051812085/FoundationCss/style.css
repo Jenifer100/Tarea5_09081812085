@@ -1,0 +1,32 @@
+#cajona {
+    background-color: #E7E0C9;
+}
+
+#cajona .card {
+    width: 300px;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-top: 15px;
+    background-color: #11324D;
+}
+
+#cajona label,
+legend {
+    color: white;
+    margin-left: 5px;
+}
+
+#cajona input,
+textarea,
+select {
+    width: 200px;
+    margin-left: 10px;
+}
+
+#cajona button {
+    margin-left: 10px;
+}
+
+#cajona #caso {
+    width: 20px;
+}
